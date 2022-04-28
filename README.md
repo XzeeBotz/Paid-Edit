@@ -1,16 +1,37 @@
 <p align="center">
-  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/doctor.fate.gif" />
-</p>
+<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="XzeeBotz" width="500"/>
 
-- 🤝 Pencopas Handal 
-- 📫 How to reach me  [`Whatsapp`](https://bit.ly/3t4NqV5)
+- 👋 Hi, I’m @XzeeBotz
+- 👀 I’m 14 Years Old
+- 🌱 I’m From Surabaya
+- 💞️ Mine Not Found.
 
-## ⌨️ Is My Project
-* WhatsApp Bot Normal [`siegrin/LucBot`](https://github.com/siegrin/LucBot)
-* WhatsApp Bot Multi Device [`siegrin/Sasarai-MD`](https://github.com/siegrin/Sasarai-MD)
+<p align="center">
+<a href="https://wa.me/+6281381685954"><img title="Admin" src="https://img.shields.io/badge/Admin-XzeeBotz-green.svg?style=for-the-badge&logo=whatsapp"></a>
 
-## Team and Friends
+## `Nomor Admin`
 
- [<img src="https://avatars.githubusercontent.com/siegrin" width="100" height="100"/>](https://github.com/siegrin) | [<img src="https://avatars.githubusercontent.com/itsmedell" width="100" height="100"/>](https://github.com/itsmedell) | [<img src="https://avatars.githubusercontent.com/lendradxx" width="100" height="100"/>](https://github.com/lendradxx) | [<img src="https://avatars.githubusercontent.com/siegrin" width="100" height="100"/>](https://github.com/siegrin)
-----|----|----|----
-[siegrin](https://github.com/siegrin) | [itsmedell](https://github.com/itsmedell) | [lendradxx](https://github.com/lendradxx)| [Biman(stepbrother)](https://github.com/siegrin)
+[ `Owner OchoBotz` ](https://wa.me/+6282232806698)
+
+[ `Owner XzeeBotz` ](https://wa.me/+6281381685954)
+
+## `SocMed`
+
+[ `Instagram` ](https://instagram.com/@achel.haid_)
+
+[ `Tiktok` ](https://tiktok.com/@achel.haid)
+
+## `Thanks To`
+
+- Allah SWT.
+- Ortu.
+- Zeeone Ofc.
+- Lexxy Ofc.
+- Nurutomo.
+- Siegrin.
+- Ryuuka Team / R-TEAM.
+- Maul Botz.
+- Saipul Anuar.
+- AlyaaaXzy
+- BotolBotz
+- Dan Creator Bot Lainnya...
